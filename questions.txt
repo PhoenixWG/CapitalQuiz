@@ -1,0 +1,7 @@
+Test?, 1, 2, 3, 4
+What is the capital of Mongolia?, Ulan Bator, Vladivostok, Astana, Lhasa
+What is the capital of Australia?, Canberra, Islamabad, Delhi, Tokyo
+Tokyo is the capital of which country?, Japan, Canada, India, Spain.       
+What is the capital of Taiwan, Taipei, Paris, Madrid, Beijing
+What is the capital of North Korea?, Pyongyang, Vatican City, Cairo, Moscow
+What is the capital of Vietnam?, Hanoi, Hai Phong , Ho Chi Minh City, Hue
